@@ -1,0 +1,14 @@
+num a 13
+num b 9
+for a>b
+prt a
+a=a-1
+end
+ete a<190
+prt a
+end
+a=a>b
+str s Hovsep
+str h Shahoyan
+h=s+h
+prt h
