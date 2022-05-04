@@ -1,0 +1,11 @@
+There are 3 value types num, str, bul 
+We declare them by writing the value type ' ' name of variable ' ' value
+for example ` num a 5, num abc 7, str string Hovsep, bul boolean 1, etc.
+for if statement we write ete ' ' some operation for example a>abc , a > 10 , a < 5 , etc.
+and in the last line we write end after if code  for example `
+ete a>b
+a=a+1
+prt a
+end
+for while statement we write for ' ' again some operation then starting with next line we write our code and again end in the last line after while statement.
+and print statement we write as prt then ' ' and name of variable for example` prt string or prt a. 
